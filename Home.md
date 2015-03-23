@@ -10,8 +10,6 @@ J'aime editer des choses
 | col 2 is | ~~cen~~ | $12 |
 | col 3 is | right-aligned | $1 |
 
-hehe comment ca marche ce truc ?
+test dynamic *editing*
 
-et si j'edite en anonyme?
-
-ET EN VRAIMENT ANONLYEE?E? 
+[[1385214094748.jpg]]
