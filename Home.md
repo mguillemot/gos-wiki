@@ -8,4 +8,4 @@
 
 test dynamic *editing*
 
-[[Home/1385214094748.jpg]]
+[[Home/1385214094748.jpg|width=200px]]
