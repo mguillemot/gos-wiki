@@ -10,4 +10,4 @@ test dynamic *editing*
 
 [[Home/1385214094748.jpg|width=200px]]
 
--- Erhune (amen!)
+-- Erhune
