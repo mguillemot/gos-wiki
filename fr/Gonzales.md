@@ -1,0 +1,1 @@
++35% speed pendant 10sec

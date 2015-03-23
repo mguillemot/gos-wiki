@@ -1,0 +1,1 @@
++50% firerate pendant 5 sec

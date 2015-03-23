@@ -1,0 +1,1 @@
++20 structure pendant 30 sec

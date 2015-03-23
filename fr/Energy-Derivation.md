@@ -1,0 +1,1 @@
+Passive item rechargeant l'energie et diminuant la vitesse des tir

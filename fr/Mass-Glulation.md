@@ -1,0 +1,1 @@
+Objet actif dédié au Bahamut permettant de ralentir durant une courte période significativement les adverse a proximité

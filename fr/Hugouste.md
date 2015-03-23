@@ -1,0 +1,1 @@
+Objet laissé par les Dev Trollant le joueur en mettant en place de la fumée et consommant de l’énergie pour paraitre utile .

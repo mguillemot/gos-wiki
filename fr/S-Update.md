@@ -1,0 +1,1 @@
+Passive item de type soutien de bouclier/sous-bouclier

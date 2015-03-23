@@ -1,0 +1,1 @@
+Système Passif tournant essentiellement autour des buff d’énergie et/ou de regen d’énergie avec un malus lié en fonction du gain octroyer.

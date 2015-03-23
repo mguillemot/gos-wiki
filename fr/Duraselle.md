@@ -1,0 +1,1 @@
+Passive item sur l'energie augmentant de 20 % le max et diminuant la recharge de 10%

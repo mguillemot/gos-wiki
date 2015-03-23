@@ -1,0 +1,1 @@
++10 shield pendant 30 seconde

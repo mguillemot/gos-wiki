@@ -1,0 +1,1 @@
+Système passif améliorant le système et/ou le sous-système  de type bouclier

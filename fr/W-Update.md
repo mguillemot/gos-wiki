@@ -1,0 +1,1 @@
+Passive item du gemeter
